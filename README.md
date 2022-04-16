@@ -1,5 +1,3 @@
-# mcg-ci4-lte3-templates
-
 AdminLTE3 templates for MCG CI4
 
 1. 	download mcg-ci4-testing, then extract
