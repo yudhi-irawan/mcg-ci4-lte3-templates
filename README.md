@@ -1,11 +1,11 @@
-# mcg-templates-ci4-lt3
+# mcg-ci4-lte3-templates
 
-LT3Admin templates for MCG CI4
+AdminLTE3 templates for MCG CI4
 
-1. 	download ci4mcg_testing, then extract
-	  <br>link download at: https://github.com/yudhi-irawan/ci4mcg_testing
+1. 	download mcg-ci4-testing, then extract
+	  <br>link download at: https://github.com/yudhi-irawan/mcg-ci4-testing
     
-2. 	download mcg-templates-ci4-lt3, then extract at same folder ci4mcg_testing
+2. 	download mcg-ci4-lte3-templates, then extract at same folder mcg-ci4-testing
 
 3. 	create mySql database
 	<br>-- database: mcg_db	
